@@ -1,40 +1,63 @@
-# git-basics
+<br/>
+<p align="center">
+  <a href="https://github.com/AasthaSinghal21/One_for_All">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-### Prerequisites:
-  - Git should be installed in the system
-  - If not take a look here: https://git-scm.com/downloads
-  - Terminal :P
+  <h3 align="center">Name_of_project</h3>
 
-### To get started
+  <p align="center">
+    A ray of light to change the way colleges work!
+    <br/>
+    <br/>
+    <a href="https://github.com/AasthaSinghal21/One_for_All"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+  </p>
+</p>
 
-- Fork the repo: https://github.com/govindgoel/git-basics/fork  
-- Clone the repo: `git clone https://github.com/{your-github-username}/git-basics.git`
-- Navigate to the cloned repo: `cd git-basics`
-- Create a new branch: `git checkout -b {yourName}`
-- Now you can add a new file with name `yourName-exploring-git.md` and write something in it.
-- It's time to push your changes:
-  - First see what you have added/changed by doing: `git status`
-  - To add changes to staging do: `git add .` 
-  - To commit changes do: `git commit -m "yourName-learning-git"` [in quotes you provide the commit message basically]
-  - To push changes do: `git push origin {branchName}` [it will be your name that you used to create a branch]
-  - If it asks to add upstream then do that and push again otherwise it's done.
-  
-- To create a pull request:
-  - Go to the repo in your Github account and click on contribute<span>
-  ![Screenshot from 2022-12-30 18-31-55](https://user-images.githubusercontent.com/52847415/210073025-55ac147f-b276-4114-a0c0-c12a8e3c772c.png)</span>
-  - You should see something like below
-![Screenshot from 2022-12-30 18-38-28](https://user-images.githubusercontent.com/52847415/210073459-e8ceff30-eda2-4e90-b9c5-0db54837d958.png)
+![Downloads](https://img.shields.io/github/downloads/AasthaSinghal21/One_for_All/total) ![Contributors](https://img.shields.io/github/contributors/AasthaSinghal21/One_for_All?color=dark-green) ![Forks](https://img.shields.io/github/forks/AasthaSinghal21/One_for_All?style=social) ![Stargazers](https://img.shields.io/github/stars/AasthaSinghal21/One_for_All?style=social) ![Issues](https://img.shields.io/github/issues/AasthaSinghal21/One_for_All) ![License](https://img.shields.io/github/license/AasthaSinghal21/One_for_All) 
 
-- Click on create pull request
-- It's done :tada: 
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+* [Usage](#usage)
+* [Contributing](#contributing)
+*
+## About The Project
+
+![Screen Shot](https://www.linkpicture.com/q/screencapture-file-C-Users-HP-Desktop-SheBuilds-index-html-2023-01-06-18_23_07.png)
+
+This website caters to need to growing and already established universities and colleges. We provide a centralized system of managing the data, creating links directly for students and faculties.  
+
+With help of all the features we provide, it becomes very easy to manage every step .We provide a workspace that adapts to your needs. It’s as minimal or as powerful as you need it to be.
+
+## Built With
+
+HTML | JS | CSS | EJS | Node Js
+
+## Getting Started
+
+The picture shown is the landing page. Click on Sign Up, if a new register -> fill in your details
+-> woalla! you are now a registered user
+-> apply for the free trial
+-> chose from the given packs of subscription
+-> Finally!, after putting all efforts, the workspace is built.
+
+### Prerequisites
+
+There are absolutely no pre-requisites to using our platform. 
+
+## Usage
+
+We’re more than a doc. Or a table. Customize the workspace to work the way you do! All the key features are available in navigation bar of the website for easy access. Each element gives you access to our unique features.
 
 
-### Key Takeaways:
-- What is Git 
-- Why we need Git
-- Git basic commands
-- What is a commit
-- How to add & push changes to a GitHub Repo
-- How to raise a pull request
+## Contributing
 
-### If you are interested to learn & explore more do checkout this: https://learngitbranching.js.org/
+We are open to reviews and improvements. Please reach us at xyz@mail.com for suggestions and feedback.
+
+
