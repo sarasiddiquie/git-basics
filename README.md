@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/AasthaSinghal21/One_for_All">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://cdn-icons-png.flaticon.com/512/3313/3313498.png)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Name_of_project</h3>
