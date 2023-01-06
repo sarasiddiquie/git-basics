@@ -23,10 +23,10 @@
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
+* [Prerequisites](#prerequisites)
 * [Usage](#usage)
 * [Contributing](#contributing)
-*
+
 ## About The Project
 
 ![Screen Shot](https://www.linkpicture.com/q/screencapture-file-C-Users-HP-Desktop-SheBuilds-index-html-2023-01-06-18_23_07.png)
