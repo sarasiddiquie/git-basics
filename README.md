@@ -49,15 +49,39 @@ The picture shown is the landing page. Click on Sign Up, if a new register -> fi
 
 ### Prerequisites
 
-There are absolutely no pre-requisites to using our platform. 
+There are some software which needs to be ready before using the system.
+They are :
+-> Node 
+-> Git
 
+## Setting up
+
+Follow the steps to have the program functional on your local system :
+
+-> Fork the repository
+-> Clone it using gitbash
+-> Enter the terminal 
+-> type node index.js and press enter
+-> Head on to a browser and type localhost: <local-host-id obtained in terminal> and press enter
+-> Welcome to the landing page of our platform
+       -> use the navigation bar to view different sections
+ 
 ## Usage
 
 We’re more than a doc. Or a table. Customize the workspace to work the way you do! All the key features are available in navigation bar of the website for easy access. Each element gives you access to our unique features.
 
+## Future Scope
+
+We are working on some feautures and will be adding them shortly in future:
+
+-> Feedback
+-> Test Portal
+-> Common Class Server
+-> Efficient Mobile Application
+-> Other feautures to make management even more easy
 
 ## Contributing
 
-We are open to reviews and improvements. Please reach us at xyz@mail.com for suggestions and feedback.
+We are open to reviews and improvements. Please reach us at simmithapad23@gmail.com for suggestions and feedback.
 
 
