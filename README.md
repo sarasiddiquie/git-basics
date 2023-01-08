@@ -32,7 +32,7 @@
 
 ## About The Project
 
-![Screen Shot](https://www.linkpicture.com/q/screencapture-file-C-Users-HP-Desktop-SheBuilds-index-html-2023-01-06-18_23_07.png)
+![Screen Shot](https://ibb.co/hM2fqwS)
 
 This website caters to need to growing and already established universities and colleges. We provide a centralized system of managing the data, creating links directly for students and faculties.  
 
