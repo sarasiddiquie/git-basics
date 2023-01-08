@@ -32,7 +32,7 @@
 
 ## About The Project
 
-![Screen Shot](https://ibb.co/hM2fqwS)
+![Screen Shot](https://ibb.co/hM2fqwS](https://www.linkpicture.com/q/screencapture-localhost-8080-2023-01-08-14_20_09.png)
 
 This website caters to need to growing and already established universities and colleges. We provide a centralized system of managing the data, creating links directly for students and faculties.  
 
