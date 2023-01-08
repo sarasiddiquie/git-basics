@@ -4,10 +4,10 @@
     <img src="https://www.linkpicture.com/q/2940653.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Name_of_project</h3>
+  <h3 align="center">Elconnect</h3>
 
   <p align="center">
-    A ray of light to change the way colleges work!
+    Linking pillars of Education
     <br/>
     <br/>
     <a href="https://github.com/AasthaSinghal21/One_for_All"><strong>Explore the docs »</strong></a>
