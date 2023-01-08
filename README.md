@@ -61,13 +61,13 @@ They are :
 
 Follow the steps to have the program functional on your local system :
 
--> Fork the repository
--> Clone it using gitbash
--> Enter the terminal 
--> type node index.js and press enter
--> Head on to a browser and type localhost: <local-host-id obtained in terminal> and press enter
--> Welcome to the landing page of our platform
-       -> use the navigation bar to view different sections
+ * Fork the repository
+ * Clone it using gitbash
+ * Enter the terminal 
+ * Type node index.js and press enter
+ * Head on to a browser and type localhost: <local-host-id obtained in terminal> and press enter
+ * Welcome to the landing page of our platform
+       * use the navigation bar to view different sections
  
 ## Usage
 
@@ -77,11 +77,11 @@ We’re more than a doc. Or a table. Customize the workspace to work the way you
 
 We are working on some feautures and will be adding them shortly in future:
 
--> Feedback
--> Test Portal
--> Common Class Server
--> Efficient Mobile Application
--> Other feautures to make management even more easy
+ * Feedback
+ * Quick doubt clearance
+ * Common Class Server
+ * Efficient Mobile Application
+ * Other feautures to make management even more easy
 
 ## Contributing
 
