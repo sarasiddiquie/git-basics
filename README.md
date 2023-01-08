@@ -24,8 +24,11 @@
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
 * [Prerequisites](#prerequisites)
+*  [Setting Up](#setting-up)
 * [Usage](#usage)
+* [Future Scope](#future-scope)
 * [Contributing](#contributing)
+
 
 ## About The Project
 
